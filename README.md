@@ -1,3 +1,6 @@
+![](https://media1.tenor.com/m/N3qwkwoXDD0AAAAC/crunch-cat.gif)
+
+
 # Development Setup
 
 1. Clone the Repository
